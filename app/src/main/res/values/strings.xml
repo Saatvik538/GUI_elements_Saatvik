@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GUI_elements_Saatvik</string>
+    <string name="greeting">Hello Saatvik!</string>
+    <string name="increment">increment</string>
+    <string name="decrement">decrement</string>
+    <string name="likes_count">You have %1$d likes!\n</string>
+    <string name="radio_label_down">Down</string>
+    <string name="radio_label_up">Up</string>
+    <string name="enter_your_name">name</string>
+    <string name="push">push</string>
+    <string name="multiply">multiply</string>
+    <string name="divide">divide</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
